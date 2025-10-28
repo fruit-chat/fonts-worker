@@ -1,0 +1,11 @@
+{
+  "name": "fonts-worker",
+  "main": "index.js",
+  "compatibility_date": "2025-10-28",
+  "kv_namespaces": [
+    {
+      "binding": "KV",
+      "id": "b296fc9be2ce4feba8a85023e5a7a5a2"
+    }
+  ]
+}
