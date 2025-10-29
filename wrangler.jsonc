@@ -1,6 +1,6 @@
 {
-  "name": "fonts-worker",
-  "main": "index.js",
+  "name": "fontify",
+  "main": "index.ts",
   "compatibility_date": "2025-10-28",
   "kv_namespaces": [
     {
